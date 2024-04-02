@@ -12,8 +12,8 @@ Termux
 ```
 apt update && apt upgrade -y
 pkg install git php -y
-git clone https://github.com/MSVerse/PHP-Obfuscator
-cd PHP-Obfuscator
+git clone https://github.com/MSVerse/PHP-Obfuscator-Hex-Bit
+cd PHP-Obfuscator-Hex-Bit
 ```
 
 # Usage 
