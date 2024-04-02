@@ -19,7 +19,7 @@ cd PHP-Obfuscator-Hex-Bit
 # Usage 
 Pastikan untuk memeriksa bahwa script yang akan di-obfuscate tidak mengandung tag PHP '<?php' dan '?>', karena ini dapat menyebabkan kesalahan.
 ```
-php obfuscator.php input.php output.php
+php Obfuscator.php input.php output.php
 ```
 
 # Visit for more information 
